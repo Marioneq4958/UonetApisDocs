@@ -172,7 +172,7 @@
     googleDriveApiKey: String
     modulNawigacja: {
         ModulyLinki: {
-            "{SymbolJednostkiSprawozdawczej}": {
+            {SymbolJednostkiSprawozdawczej}: {
                 Nazwa: String
                 Link: String // Link do modułu z symbolem jednostki grupującej i symbolem jednostki sprawozdawczej
                 Modul: Number
